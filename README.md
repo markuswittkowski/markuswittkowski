@@ -1,3 +1,4 @@
-Versatile software developer, specializing in iOS development, and expanding skills in backend development.
+Software Engineer | Passionate about Automation & AI Agents.
+
 
 [markuswittkowski.de](https://markuswittkowski.de)
